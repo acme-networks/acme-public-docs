@@ -12,7 +12,7 @@ We are looking for Product Managers to lead cross-functional teams in building p
 - Translate insights into well-scoped PRDs with crisp requirements, acceptance criteria, and milestones; partner with engineering and design to plan, sequence, and ship value incrementally.
 - Partner with design to deliver delightful, accessible, and performant experiences; ensure usability, accessibility, and consistency across surfaces.
 - Own the end-to-end lifecycle: technical discovery, implementation planning, QA and rollout, go-to-market coordination, measurement, and iteration.
-- Instrument, monitor, and analyze product performance using dashboards and experiments to validate hypotheses and improve outcomes.
+- Define core metrics, monitor product performance, and use data-driven insights to improve user value.
 - Maintain a high quality bar for reliability, security, and privacy-by-design in collaboration with engineering.
 - Manage stakeholders proactively with transparent communication of priorities, timelines, risks, and decisions.
 - Run effective product rituals (backlog grooming, sprint planning, reviews, retros) and continuously improve team processes and developer experience.

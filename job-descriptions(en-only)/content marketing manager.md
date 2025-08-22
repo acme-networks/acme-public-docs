@@ -7,18 +7,13 @@
 We are looking for Content Marketing Managers to build a high-quality, data-informed content engine that drives awareness, consideration, and pipeline. You will own the editorial strategy and operations end-to-end, partnering closely with product marketing, product, design, sales, and growth to craft narratives, scale distribution, and measure impact.
 
 ### What You Will Do
-- Define content strategy and messaging that align to company goals and ideal customer profiles; establish editorial standards and a consistent brand voice.
-- Own the editorial calendar and deliver long-form content, customer stories, product narratives, and thought leadership.
-- Partner with product marketing and product to plan and execute launches, campaigns, and solution pages; translate complex concepts into clear, compelling stories.
-- Lead SEO strategy end-to-end: audience and keyword research, content briefs, on-page optimization, internal linking, and performance monitoring.
-- Distribute and repurpose content across owned channels and partner channels; ensure channel-content fit.
-- Build and manage a network of writers, editors, and agencies; create briefs, style guides, and QA processes that scale quality.
-- Instrument measurement with GA4, Search Console, and attribution tools; define goals and guardrail metrics; build dashboards and narrative reports.
-- Run experiments on headlines, CTAs, and landing pages; iterate based on insights to improve conversion and SEO outcomes.
-- Collaborate with lifecycle teams on nurture programs; create MOFU/BOFU assets that accelerate evaluation.
-- Ensure accuracy, compliance, and accessibility; partner with legal and security where needed; uphold privacy-by-design and brand governance.
-- Maintain CMS hygiene and content operations; document playbooks and continuously improve tooling and processes.
-- Develop multimedia content in partnership with creative; manage production timelines and quality.
+- Develop and execute content marketing strategies and annual/quarterly plans aligned with business goals and ideal customer profiles; establish editorial standards and consistent brand voice.
+- Lead and manage content production to ensure high-quality, multi-format outputs consistent with brand voice; build and manage a network of writers, editors, and agencies with scalable QA processes.
+- Coordinate and optimize multi-channel content distribution across website, social media, email, and partner channels to maximize reach and visibility; ensure channel-content fit.
+- Track and analyze content performance data using analytics tools and drive data-driven optimization and iteration; define goals and guardrail metrics for continuous improvement.
+- Oversee and maintain brand consistency, leveraging content to strengthen user relationships and market influence; collaborate with lifecycle teams on nurture programs.
+- Lead end-to-end SEO strategy including audience and keyword research, content optimization, internal linking, and performance monitoring to drive organic growth and search visibility.
+- Utilize advanced analytics platforms including GA4, Search Console, and attribution tools to measure content ROI, pipeline impact, and cross-channel performance; build dashboards and translate insights into actionable recommendations.
 
 ### What You Bring
 - 5+ years of content marketing experience in B2B/SaaS or high-growth environments, with a track record of driving organic growth and pipeline.

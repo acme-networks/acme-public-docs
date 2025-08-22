@@ -7,17 +7,13 @@
 We are looking for Growth Marketing Managers to design and execute our full-funnel growth strategy across acquisition, activation, retention, and revenue. You will own experiments, channels, measurement, and insights that move the business. You will partner closely with product, design, engineering, data, and sales to build scalable growth loops, deliver high-quality programs, and raise the bar on analytics and execution.
 
 ### What You Will Do
-- Own end-to-end growth strategy and operating cadence across the funnel; define OKRs, measurement plans, and guardrail metrics.
-- Plan, launch, and optimize multi-channel acquisition: paid search/social, display/video, Apple Search Ads, affiliates/partners, and referrals.
-- Drive organic growth via SEO/ASO, content distribution, and conversion-focused landing pages; collaborate with design and web to ship fast.
-- Build lifecycle programs using modern CRM tools; design segmentation, journeys, and personalization.
-- Lead experimentation and incrementality testing; establish clear hypotheses, sample sizing, and statistical rigor.
-- Implement and maintain a reliable analytics and attribution stack; own the tracking plan and data quality.
-- Model growth economics and forecast channel spend; allocate budgets for efficiency and scale.
-- Partner with product and engineering to ship growth features and loops, leveraging feature flags and holdouts.
-- Build dashboards and narratives to communicate performance and insights to leadership; recommend actions with clarity and urgency.
-- Manage agencies and contractors where needed; document playbooks, uphold best practices, and continuously improve tooling and processes.
-- Ensure privacy and compliance by design (e.g., GDPR/CCPA, consent management) and uphold high standards for security and governance.
+- **Growth Strategy & Execution**: Develop and execute end-to-end growth strategies across acquisition, activation, retention, and monetization; define OKRs, measurement plans, and run growth experiments to validate hypotheses and optimize key metrics.
+- **Multi-Channel Acquisition**: Plan, launch, and optimize acquisition channels including paid search/social, SEO/ASO, display/video, affiliates/partners, and referrals; model growth economics and allocate budgets for efficiency and scale.
+- **User Growth & Conversion Optimization**: Build lifecycle programs using modern CRM tools, optimize user registration and activation flows, and partner with product/engineering to ship growth features and conversion loops.
+- **Data Analytics & Insights**: Implement and maintain reliable analytics and attribution stack, define core growth metrics and tracking plans, and build dashboards to communicate performance insights and recommendations to leadership.
+- **Growth Experimentation**: Lead A/B testing and incrementality experiments with statistical rigor, establish clear hypotheses and sample sizing methodologies, and use experimental insights to iterate and refine growth strategies.
+- **Market Insights & Innovation**: Monitor industry trends and competitive landscape, explore new channels and innovative growth tactics, and identify expansion opportunities while ensuring privacy compliance and governance standards.
+- **Cross-Team Collaboration**: Partner closely with product, design, engineering, data, and sales teams to deliver integrated growth initiatives; manage agencies and contractors while documenting best practices and improving processes.
 
 ### What You Bring
 - 5+ years of hands-on growth marketing experience in tech or high-growth environments; track record of delivering measurable impact.
