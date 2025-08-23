@@ -1,1 +1,1 @@
-# acme-terms-and-policies
+# acme-public-docs
