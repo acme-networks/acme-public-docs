@@ -1,6 +1,6 @@
 ### Senior Full Stack Software Engineer
 
-**Location**: San Francisco or Toronto
+**Location**: San Francisco, Toronto
 **Employment**: Full-time
 
 ### About the Role
