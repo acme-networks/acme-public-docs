@@ -6,7 +6,6 @@
 - **Last Updated**: August 22, 2025
 - **Contact Email**: support@acmevpn.io
 - **Language Version**: In case of conflicts, the English version shall prevail
----
 
 ## Preamble
 Welcome to AcmeVPN!
