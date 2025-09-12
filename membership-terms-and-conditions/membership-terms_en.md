@@ -17,10 +17,10 @@ To ensure that you fully understand our membership service rules, we have establ
 
 ## 0. Definitions
 To avoid ambiguity, the terms in these terms of service have the following meanings:
-- **Membership Types**: Include paid memberships (SVIP, VIP) and free memberships (free trial, Light membership, referral reward VIP).
+- **Membership Types**: Include paid memberships (SVIP, VIP) and free memberships (free trial, Basic membership, referral reward VIP).
 - **VIP**: Basic paid membership benefits. Referral reward VIP enjoys the same benefits as paid VIP.
 - **SVIP**: Premium paid membership benefits, offering faster speeds and more device connections than VIP.
-- **Light Membership**: Free membership obtained through advertisements or activities, with features below VIP level.
+- **Basic Membership**: Free membership obtained through advertisements or activities, with features below VIP level.
 - **Free Trial**: 3-day free experience available to new users upon first registration, limited to once per user.
 - **Purchase Methods**:
   - Subscription Purchase: Billing through third-party payment platforms (such as Stripe) on a monthly, quarterly, or annual basis;
@@ -41,9 +41,9 @@ AcmeVPN provides monthly, quarterly, and annual paid membership services. The va
 **Calculation Example**: If you purchase a monthly VIP membership at Singapore Standard Time 8:00 AM on February 1, 2025, the membership will expire after 31×24 hours, i.e., at Singapore Standard Time 8:00 AM on March 4, 2025.
 
 ### 2.2 Free Reward Membership Validity Period
-**Light Membership**:
+**Basic Membership**:
 - The validity period is calculated continuously for 24 hours from the moment the user successfully redeems it;
-- **Example**: If you redeem a 1-day Light membership at Singapore Standard Time 2:00 PM on February 1, 2025, the validity period ends at 2:00 PM on February 2, 2025.
+- **Example**: If you redeem a 1-day Basic membership at Singapore Standard Time 2:00 PM on February 1, 2025, the validity period ends at 2:00 PM on February 2, 2025.
 
 **Referral Reward VIP**:
 - The validity period is calculated continuously for 24 hours from the moment the user receives the reward (or corresponding multiples for rewards of longer duration);
@@ -67,7 +67,7 @@ AcmeVPN offers two types of paid membership services:
 In addition to paid memberships, AcmeVPN also provides the following free reward memberships:
 | Membership Type | Acquisition Method | Service Description | Device Connection Limit |
 |-----------------|-------------------|---------------------|------------------------|
-| **Light Membership** | Obtained through watching advertisements or participating in activities on mobile devices (phones, tablets) | Enjoy basic membership services | 1 desktop device + 1 mobile device |
+| **Basic Membership** | Obtained through watching advertisements or participating in activities on mobile devices (phones, tablets) | Enjoy basic membership services | 1 desktop device + 1 mobile device |
 | **Referral Reward VIP Membership** | Obtained by referring new users who successfully register and make their first top-up | Enjoy complete VIP membership services | 2 desktop devices + 2 mobile devices |
 
 ### 3.3 Membership Benefits Description
@@ -103,7 +103,7 @@ Remaining service duration for the same type of membership (such as multiple SVI
 Different types of memberships will automatically take effect according to the following priority order:
 1. **SVIP Membership** (paid SVIP)
 2. **VIP Membership** (including paid VIP and referral reward VIP)
-3. **Light Membership**
+3. **Basic Membership**
 
 #### 6.3 Membership Upgrade/Downgrade Rules
 #### 6.3.1 Membership Upgrade Rules
@@ -129,7 +129,7 @@ Different types of memberships will automatically take effect according to the f
 - Once membership service validity period begins, it cannot be suspended or extended except in circumstances explicitly provided by law or these terms.
 - Membership services are not affected by user usage frequency or login status. If you delete your account, uninstall AcmeVPN, or do not use membership services during the membership validity period, the membership service remains in normal use status.
 - Membership qualifications cannot be transferred or shared with other users. If the system detects sharing behavior or other abnormal usage behavior in an account, AcmeVPN has the right to ban users and terminate membership services.
-- Users must not fraudulently obtain Light membership services through malicious farming or other behaviors. If the system detects malicious farming or other malicious behaviors in an account, AcmeVPN has the right to warn users, restrict functions, suspend services, ban accounts, and terminate membership services.
+- Users must not fraudulently obtain Basic membership services through malicious farming or other behaviors. If the system detects malicious farming or other malicious behaviors in an account, AcmeVPN has the right to warn users, restrict functions, suspend services, ban accounts, and terminate membership services.
 
 ## 8. Terms Modification and Interpretation
 ### 8.1 Terms Changes and Notification
