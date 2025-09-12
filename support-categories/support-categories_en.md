@@ -1,24 +1,11 @@
-# Support Categories
-
-## General
-## Installation & Usage
 1. Download & Installation
-2. Login Issues
+2. Signup & Login
 3. Connection Issues
-4. Unstable Connection
-5. Device Management
-6. Product Features
-
-## Account & Membership
-7. Account Management
-8. Membership Management
-
-## Payment
-9. Subscription & Payment
-
-## Others
-10. App Updates
-11. Usage Feedback
-12. Praise & Recognition
-13. Business Cooperation
-14. Other Types
+4. Device Management
+5. Account Management
+6. Memberships
+7. Subscription & Payment
+8. Feedback
+9. Praise
+10. Business Cooperation
+11. Other Issues
