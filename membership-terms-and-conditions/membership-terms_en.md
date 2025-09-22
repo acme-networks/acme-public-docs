@@ -31,7 +31,7 @@ You can purchase membership services for your AcmeVPN account through the follow
 - **Free Trial**: New users can enjoy 3 days of free experience after first registration.
 - **Subscription Purchase**: You can choose to purchase VIP or SVIP membership on a monthly, quarterly, or annual cycle.
 - **One-time Purchase**: You can make a single purchase for a fixed-term VIP or SVIP membership service.
-- **Referral Rewards**: After successfully referring new users who register and make their first top-up, you can receive additional membership duration as a reward. For specific rules, please refer to the invite friends page.
+- **Referral Rewards**: After successfully referring new users who register and make their first top-up, you can receive additional membership duration as a reward. For specific rules, please refer to the invitation page.
 
 ## 2. Membership Validity Period
 ### 2.1 Paid Membership Validity Period
