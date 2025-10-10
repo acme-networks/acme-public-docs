@@ -60,7 +60,7 @@ We will promptly verify and take appropriate measures. We also reserve the right
 AcmeVPN strictly adheres to a no-log policy and is committed to protecting your privacy and data security. For details on data collection, use, and protection, please refer to Article 4 to 15 of the Privacy Policy regarding policy of data processing.
 
 ### 3.1 Cookies Usage
-Our website uses cookies to enhance user experience. For details on categories, purposes, and management of cookies, please refer to Article 7 of the Privacy Policy regarding cookie policy.
+Our website uses cookies to enhance user experience. For details on categories, purposes, and management of cookies, please refer to Article 7 of the Privacy Policy regarding cookies policy.
 
 ## 4. Modification of Terms
 

@@ -105,7 +105,7 @@ To provide and improve our services, we currently use the following third-party 
 ### 6.3 Data Transfer Security
 Data shared with third parties is transmitted through secure encryption methods, limited to error logs and performance metrics, and does not contain any user VPN activity data or personal identification information.
 
-## 7. Cookie Policy
+## 7. Cookies Policy
 
 ### 7.1 What Are Cookies
 Cookies are small text files stored on your device that websites use to remember information about your visits. The AcmeVPN website uses cookies to enhance user experience, and as the website continues to update and improve, the cookies we use may change accordingly.
@@ -134,14 +134,14 @@ Some cookies we use are provided by third-party services:
 - Stripe: for secure payment processing;
 - Cloudflare: for network and security services.
 
-### 7.4 Cookie Management and User Control
+### 7.4 Cookies Management and User Control
 - Browser Settings: You can manage or disable cookies through your browser settings;
 - Choice Rights: You have the right to refuse non-essential cookies, keeping only essential cookies required for website operation;
-- Change Anytime: You can change cookie preferences at any time;
+- Change Anytime: You can change cookies preferences at any time;
 - Impact Description: Disabling certain cookies may affect some website functions, such as language preference memory;
 - Specific Jurisdictional Notes: If you are an EU user, all non-essential cookies are based on your prior explicit consent; if you are a California resident, you have the right to opt out of advertising-related cookies through "Do Not Sell/Share" related identifiers.
 
-### 7.5 Cookie Retention Periods
+### 7.5 Cookies Retention Periods
 - Session Cookies: Automatically deleted when the browser is closed;
 - Persistent Cookies: Retained for different periods based on specific purposes (usually 1-24 months);
 - Third-Party Cookies: Follow retention policies of respective third-party service providers.
