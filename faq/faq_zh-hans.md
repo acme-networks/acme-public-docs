@@ -910,7 +910,7 @@ AcmeVPN 支持主流设备和操作系统：
 - **浏览器**：通过客户端应用为所有浏览器提供保护。
 - **系统要求**：
   - **iOS**：需要 iOS 12.0 或更高版本；
-  - **Android**：需要 Android 7.0 或更高版本；  
+  - **Android**：需要 Android 6.0 或更高版本；  
   - **Windows**：Windows 7、Windows 10、Windows 11；
   - **macOS**：macOS 10.15 或更高版本。
 - **同时连接设备数**：根据会员等级，支持不同设备数量同时使用。
