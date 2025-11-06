@@ -55,7 +55,7 @@ To install the AcmeVPN app on Android, you need to download the APK installation
 - Important notes:
   - **Security**: Ensure you only download the APK file from the official AcmeVPN website to avoid malicious software or viruses;
   - **System permissions**: When installing the APK, the system may require you to grant additional permissions (such as storage permissions, network permissions, etc.). Ensure you authorize these permissions for the app to function properly;
-  - **App updates**: Apps installed via APK require manual updates. When a new version is released, we will remind you to update through an in-app pop-up. You can revisit the official website to download the latest APK file for updates.
+  - **App updates**: Apps installed via APK require manual updates. When a new version is released, we shall remind you to update through an in-app pop-up. You can revisit the official website to download the latest APK file for updates.
 
 ### 1.3 How to Install AcmeVPN App on macOS?
 To install the AcmeVPN app on macOS, you need to download the DMG installation package from the official website. Here are the detailed installation steps:
@@ -194,7 +194,7 @@ To ensure account security and service quality, we do not allow registration wit
   - Carefully recall the email addresses you may have used to register for AcmeVPN (such as personal email, work email, etc.);
   - Check the inbox or spam folder of these email addresses for registration confirmation emails or notification emails from AcmeVPN.
 
-If you have forgotten your registered email address, please contact customer support and provide payment details as proof of identity, and we will assist with processing.
+If you have forgotten your registered email address, please contact customer support and provide payment details as proof of identity, and we shall assist with processing.
 
 ### 2.4 How Can I Change My Registered Email Address?
 AcmeVPN currently does not support changing registered email addresses. Email is an important identifier in our account system, and to ensure account security and data consistency, modification is temporarily not supported. If you need to use another email address, we recommend creating a new account. If you have any questions or need assistance, please contact customer support.
@@ -222,7 +222,7 @@ Yes. You can log in and use the same AcmeVPN account on multiple devices simulta
 No. Sharing accounts with others or providing account credentials to third parties is strictly prohibited:
 - **Account sharing prohibition**: Each account is for the account holder's personal use only and must not be shared with others;
 - **Monitoring mechanism**: We monitor account usage patterns through technical means and detect abnormal situations such as multi-location logins and device connection limit violations;
-- **Violation penalties**: Once account sharing is detected, service will be immediately terminated without any refund;
+- **Violation penalties**: Once account sharing is detected, services shall be immediately terminated without any refund;
 - **Reasonable use**: You may use the same account on multiple devices you own within the device connection limits allowed by your membership level.
 
 ### 3.4 How Can I Check My Membership Usage and Remaining Time?
@@ -254,16 +254,16 @@ Basic membership has specific usage guidelines, and violations may result in rev
   - Obtaining Basic membership rewards maliciously through multiple accounts;
   - Using virtual devices or emulators to obtain rewards.
 - **Violation consequences**:
-  - Basic membership privileges will be immediately revoked;
-  - Obtained Basic membership time will be cleared;
-  - Serious cases may result in account termination;
+  - Basic membership privileges shall be immediately revoked;
+  - Obtained Basic membership time shall be cleared;
+  - Serious cases may result in service termination;
 - **Legitimate acquisition methods**: Obtained through normal viewing of advertisements on mobile devices, participation in official activities, and other lawful means.
-- **Fairness principle**: To ensure fair rights for all users, we will continuously monitor and address malicious behavior.
+- **Fairness principle**: To ensure fair rights for all users, we shall continuously monitor and address malicious behavior.
 
 ### 3.7 How Can I Delete My AcmeVPN Account?
 You may request account deletion at any time, but please note the relevant consequences. Specific methods are as follows:
-- **Application method**: Contact customer support through the help center on the AcmeVPN website or app to request account cancellation;
-- **Processing time**: Your personal information will be deleted within 7 days of receiving the request;
+- **Application method**: Contact customer support through the help center on the AcmeVPN website or app to request account deletion;
+- **Processing time**: We shall delete your personal information within 7 days of receiving the request;
 - **Deletion content**: Includes account information, login records, device bindings, and other personal data;
 - **Irreversible**: Account deletion is irreversible—please consider carefully;
 - **Membership time**: Unused paid service time will not be refunded;
@@ -397,17 +397,36 @@ Upgrades are divided into the following two categories:
 ### 4.11 How Are Unused VIP Membership Benefits Handled After Upgrading to SVIP?
 - According to our refund policy, we do not offer refunds;
 - Upon upgrade completion, you will immediately enjoy upgraded SVIP membership benefits. However, the validity period of services shall remain based on the start time of the original subscription and shall not be reset;
-- Unused VIP membership time will be retained according to membership priority rules. After SVIP membership expires, remaining VIP membership time will automatically take effect;
+- Unused VIP membership time shall be retained according to membership priority rules. After SVIP membership expires, remaining VIP membership time shall automatically take effect;
 - For detailed membership priority and stacking rules, please refer to our Membership Terms of Service.
 
 ### 4.12 How Is the Membership Validity Period Calculated?
-AcmeVPN offers monthly, quarterly, and annual paid membership services. The validity period is calculated continuously in hours (not based on calendar days) as follows:
-- **Monthly membership**: Expires 31×24 hours after successful purchase;
-- **Quarterly membership**: Expires 93×24 hours after successful purchase;
-- **Annual membership**: Expires 372×24 hours after successful purchase.
+AcmeVPN offers monthly, quarterly, annual, and biannual paid membership services. The validity period is calculated by natural months, maintaining the same time point:
+- **Monthly Membership**: From the time of successful purchase, extends forward by 1 natural month, expiring at the same time on the corresponding date;
+- **Quarterly Membership**: From the time of successful purchase, extends forward by 3 natural months, expiring at the same time on the corresponding date;
+- **Annual Membership**: From the time of successful purchase, extends forward by 12 natural months, expiring at the same time on the corresponding date;
+- **Biannual Membership**: From the time of successful purchase, extends forward by 24 natural months, expiring at the same time on the corresponding date.
 
-**Calculation example**:
-If you purchase a monthly VIP membership at 8:00 AM Singapore Standard Time on February 1, 2025, the membership will expire after 31×24 hours, i.e., at 8:00 AM Singapore Standard Time on March 4, 2025.
+**Handling Rules for Non-existent Dates**:
+When the target month does not have the purchase date (e.g., purchasing monthly membership on January 31, but February has no 31st day), the system adjusts the expiry date to the last day of that month.
+- **Subscription Renewals**: For subsequent auto-renewals, if the target month has the original purchase date, the original date is restored;
+- **One-time Purchases**: Only applies to the expiry time calculation for that specific purchase.
+
+**Calculation Examples**:
+
+**One-time Purchase Examples**:
+- **Example 1**: If you purchase a one-time monthly VIP membership at 8:00 AM Singapore Standard Time on February 1, 2025, the membership will expire at 8:00 AM Singapore Standard Time on March 1, 2025, and requires manual repurchase after expiration;
+- **Example 2**: If you purchase a one-time monthly VIP membership at 10:00 AM Singapore Standard Time on January 31, 2025, since February does not have 31 days, the membership will expire at 10:00 AM Singapore Standard Time on February 28, 2025, and requires manual repurchase after expiration.
+
+**Subscription Renewal Examples**:
+- **Example 3**: If you subscribe to monthly VIP membership (auto-renewal) at 10:00 AM Singapore Standard Time on January 31, 2025, the first billing cycle will expire and auto-renew at 10:00 AM Singapore Standard Time on February 28, 2025, and the second billing cycle will expire at 10:00 AM Singapore Standard Time on March 31, 2025 (resuming the original date of the 31st);
+- **Example 4**: If you subscribe to quarterly VIP membership (auto-renewal) at 2:00 PM Singapore Standard Time on February 15, 2025, the first billing cycle will expire and auto-renew at 2:00 PM Singapore Standard Time on May 15, 2025, and the second billing cycle will expire at 2:00 PM Singapore Standard Time on August 15, 2025;
+- **Example 5**: If you subscribe to annual VIP membership (auto-renewal) at 8:00 PM Singapore Standard Time on March 1, 2025, the first billing cycle will expire and auto-renew at 8:00 PM Singapore Standard Time on March 1, 2026.
+
+**Important Notes**:
+- Validity periods are calculated by natural months, with specific expiration times being the same date and time in the corresponding month;
+- Each natural month has different numbers of days (28-31 days), so actual hours may vary;
+- Time zone is based on the time zone at the time of purchase.
 
 ### 4.13 How Can I View My Orders and Payment Records?
 View my orders through the AcmeVPN app:
@@ -427,7 +446,7 @@ Basic membership is free membership obtained through specific methods:
 - **Service benefits**: Enjoy basic membership services, supporting 1 desktop device + 1 mobile device connection simultaneously;
 - **Validity period calculation**: Expires 24 hours after redemption (based on the time zone at the time of redemption);
 - **Usage priority**: Automatically takes effect after all SVIP and VIP membership services end;
-- **Important notes**: Maliciously obtaining Basic membership will result in revocation, and accounts may be terminated.
+- **Important notes**: Maliciously obtaining Basic membership shall result in revocation, and services may be terminated.
 
 ### 4.15 How Are Multiple Types of Membership Durations Used? Can Memberships Stack?
 AcmeVPN membership services follow priority and stacking rules:
@@ -445,10 +464,10 @@ AcmeVPN membership services follow priority and stacking rules:
 ### 4.16 Can Membership Be Paused or Transferred to Others?
 No, membership services have strict usage restrictions:
 - **Cannot be paused**: Once the validity period of membership services begins, it cannot be paused or extended;
-- **Continuous consumption**: Even if you delete your account, uninstall the app, or do not use services, membership time will continue to be consumed normally;
+- **Continuous consumption**: Even if you delete your account, uninstall the app, or do not use services, membership time shall continue to be consumed normally;
 - **Non-transferable**: Membership privileges cannot be transferred, cashed out, or shared with other accounts;
 - **Personal use only**: Each membership account is for the registrant's personal use only;
-- **Violation consequences**: Account sharing or transfer will result in immediate account termination without refund;
+- **Violation consequences**: Account sharing or transfer shall result in immediate service termination without refund;
 - **Billing rules**: All membership services are calculated continuously in complete 24-hour periods, not based on calendar days.
 
 ### 4.17 Can VIP and SVIP Be Upgraded or Downgraded at Any Time?
@@ -570,7 +589,7 @@ Based on security and functionality considerations, our version support policy i
   - May contain unpatched security vulnerabilities and functional defects;
   - May not be able to connect to the latest server nodes.
 - **Forced updates**: To ensure service security and functional integrity, we may require users to update to the latest version to continue using the services;
-- **Recommended action**: Please regularly update the app to obtain the best experience and security protection.
+- **Recommended action**: Users should regularly update the app to obtain the best experience and security protection.
 - **Compatibility issues**: Old versions may be incompatible with new server configurations, causing connection failures.
 
 ### 5.9 What Should I Pay Attention to When Using AcmeVPN for Streaming or Gaming?
@@ -586,13 +605,13 @@ We support users' legitimate entertainment needs, but please note the following:
 - **Important notes**: Users need to ensure their usage behavior complies with relevant platform service terms and local laws and regulations.
 
 ### 5.10 What Are the Consequences of Violating Usage Regulations?
-Depending on the severity of violations, different levels of penalties will be imposed:
+Depending on the severity of violations, different levels of penalties shall be imposed:
 - **Warning**: For minor violations, such as exceeding reasonable use scope;
 - **Rectification notice**: Requiring users to stop violations within a specified time;
 - **Service suspension**: Temporarily suspending account VPN service functions;
-- **Service termination**: Permanent account termination without refund;
+- **Service termination**: Permanent service termination without refund;
 - **Legal liability**: For serious violations, AcmeVPN reserves the right to pursue legal liability;
-- **Appeal opportunity**: If you believe the penalty is inappropriate, you may appeal through customer support within 30 days after the decision takes effect.
+- **Appeal opportunity**: If you believe the penalty is inappropriate, you may file an appeal through customer support within 30 days after the decision takes effect.
 
 ### 5.11 How to Resolve iOS Connection Issues?
 If your iOS device cannot connect to AcmeVPN, you can try the following solutions:
@@ -738,8 +757,8 @@ In certain special circumstances, services may be affected:
   - International network line interruptions.
 - **Service impact**: These factors may cause servers to become inaccessible, connections to become unstable, or services to be temporarily interrupted.
 - **Handling principles**:
-  - AcmeVPN bears no liability for service interruptions caused by force majeure (see Article 9.2 of the Terms of Service);
-  - We will make every effort to restore services and notify users promptly through official channels;
+  - To the extent permitted by law, AcmeVPN bears no liability for service interruptions caused by force majeure or circumstances beyond our control (see Article 9.2 of the Terms of Service);
+  - We shall make every effort to restore services and notify users promptly through official channels;
   - Membership time continues to be consumed normally during service interruptions.
 - **User recommendation**: When encountering large-scale service interruptions, please follow official notifications for recovery progress.
 
@@ -766,7 +785,7 @@ VPN legality varies by country, and users need to understand local laws:
   - **North Korea**: VPN use is completely prohibited.
 - **Corporate use**: Most countries allow businesses to use VPNs for security purposes.
 - **User responsibilities**:
-  - Please understand and comply with relevant laws and regulations of your country or region before using;
+  - Users shall understand and comply with relevant laws and regulations of their jurisdiction before using the service;
   - Even if VPNs are legal, illegal activities conducted through VPNs remain illegal;
   - Users shall bear full legal liability for their own actions.
 
@@ -785,7 +804,7 @@ VPN connections may disconnect unexpectedly for various reasons:
   - Disable device power saving mode or set the app to not optimize.
 - **Post-disconnection handling**:
   - According to our Privacy Policy, your real IP may be temporarily exposed when disconnected;
-  - It is recommended to immediately reconnect to the VPN to restore protection;
+  - We recommend immediately reconnecting to the VPN to restore protection;
   - If frequent disconnections occur, please try switching to other server nodes.
 
 ### 5.21 Why Do Some Apps Not Work Properly After Connecting to VPN?
@@ -812,28 +831,28 @@ According to our Privacy Policy, AcmeVPN only collects the following necessary i
 AcmeVPN strictly limits third-party data sharing:
 - Sharing principle: We only share the minimum amount of data with third parties when necessary. All third-party service providers have signed data processing agreements and must comply with strict privacy standards;
 - Third-party services: Third-party services we use include Stripe (payment processing), Google Analytics and Firebase (website and app analytics, anonymized data), Zoho (email services), app performance monitoring tools (error monitoring), Cloudflare (network and security services), Google AdMob and Meta Ads (advertising services);
-- Data protection: Except as required by applicable law or with your explicit authorization, AcmeVPN will not share your personal data with any third party. Data shared with third parties is transmitted in a secure encrypted manner;
+- Data protection: Except as required by applicable law or with your explicit authorization, AcmeVPN shall not share your personal data with any third party. Data shared with third parties is transmitted via secure encrypted methods;
 - VPN activity data: We do not share any user's VPN usage activity data or personally identifiable information.
 
 ### 6.3 Will My Data Be Transferred to Other Countries?
 AcmeVPN operates globally, and your personal data may be transferred to servers outside your country/region:
-- **Transfer safeguards**: All cross-border data transfers use encrypted protocols, and we regularly evaluate the security environment of data transfer destinations;
+- **Transfer safeguards**: All cross-border data transfers utilize encrypted protocols, and we regularly evaluate the security environment of data transfer destinations;
 - **Minimization principle**: Only necessary data is transferred, with strict control of transfer scope;
 - **Compliance monitoring**: Ensures all data transfers comply with relevant privacy law requirements;
 - **User rights**: You have the right to know which countries or regions your data is transferred to. If you have questions, please contact customer support.
 
 ### 6.4 Can I Delete My Personal Data?
 You have multiple rights regarding your personal data:
-- Right to deletion: You have the right to request that we delete your personal data. When you proactively request account deletion, we will delete your personal information within 7 days;
+- Right to deletion: You have the right to request that we delete your personal data. When you proactively request account deletion, we shall delete your personal information within 7 days;
 - Right to access: You have the right to know what personal information we have collected about you and how we use that information;
 - Right to rectification: You have the right to request that we correct any inaccurate or incomplete personal data;
 - Right to data portability: You have the right to obtain your personal data in a structured, commonly used, and machine-readable format;
-- Exercise of rights: To exercise any of the above rights, please contact us through the help center on the AcmeVPN website or app. We will typically respond within 30 days (specific timeframes may vary depending on legal requirements in your region—see Article 8.9 of the Privacy Policy).
+- Exercise of rights: To exercise any of the above rights, please contact us through the help center on the AcmeVPN website or app. We shall typically respond within 30 days (specific timeframes may vary depending on legal requirements in your region—see Article 8.9 of the Privacy Policy).
 
 ### 6.5 How Long Will My Data Be Retained?
 AcmeVPN retains user data according to the minimization principle:
-- **Personal account data**: Your registration information (such as email address) will be retained until you proactively request account deletion or service termination;
-- **Customer support records**: Communication records will be retained until you request deletion or for a reasonable period after service termination;
+- **Personal account data**: Your registration information (such as email address) shall be retained until you proactively request account deletion or service termination;
+- **Customer support records**: Communication records shall be retained until you request deletion or for a reasonable period after service termination;
 - **Technical data**: Data such as server load and error logs are periodically cleaned, retaining only necessary historical data to optimize services;
 - **Payment records**: Due to legal requirements, payment-related records may need to be retained for up to 7-10 years;
 - **Website visit logs**: Website visit logs are typically retained for no more than 30 days before being periodically cleaned.
@@ -841,15 +860,15 @@ AcmeVPN retains user data according to the minimization principle:
 ### 6.6 What Happens If a Data Breach Occurs?
 AcmeVPN has established a comprehensive data breach response process:
 - Preventive measures: We continuously monitor system security, employing advanced intrusion detection and protection measures, firewalls, encrypted storage, and other multiple security measures;
-- Rapid response: If a data breach occurs, we will notify relevant regulatory authorities within 72 hours. If the breach may pose a high risk to your rights, we will notify you promptly via email, in-app notifications, and other means;
-- Detailed explanation: We will provide detailed explanations of the affected data types, possible consequences, and remedial measures we have taken, and provide specific protection recommendations for affected users;
-- Continuous improvement: We will record detailed information about all data breach incidents and continuously improve our security protection capabilities.
+- Rapid response: If a data breach occurs, we shall notify relevant regulatory authorities within 72 hours. If the breach may pose a high risk to your rights, we shall notify you promptly via email, in-app notifications, and other means;
+- Detailed explanation: We shall provide detailed explanations of the affected data types, possible consequences, and remedial measures we have taken, and provide specific protection recommendations for affected users;
+- Continuous improvement: We shall record detailed information about all data breach incidents and continuously improve our security protection capabilities.
 
 ### 6.7 Is Using AcmeVPN Secure?
 AcmeVPN employs multiple security measures to ensure service security:
-- Encryption technology: All data transmission uses advanced encryption technology to ensure your network traffic security;
+- Encryption technology: All data transmissions utilize advanced encryption technology to ensure your network traffic security;
 - Server security: User data is stored in encrypted form on secure servers, with deployment of firewalls, intrusion detection systems, and other network security facilities;
-- Access control: Only authorized personnel can access user data when necessary, implementing the principle of least privilege, recording and reviewing access to user data;
+- Access control: Only authorized personnel may access user data when necessary, implementing the principle of least privilege, recording and reviewing access to user data;
 - Regular updates: Systems and software are kept up to date, patching security vulnerabilities. Employees receive regular training in data protection and privacy security.
 
 ### 6.8 Does the AcmeVPN Website Use Cookies?
@@ -861,11 +880,11 @@ Yes, our website uses cookies to enhance user experience:
 - **Cookie management**: You can manage or disable cookies through browser settings, but disabling certain cookies may affect some website functions.
 
 ### 6.9 How Will My Data Be Handled If the Company Is Acquired or Restructured?
-If business transfer occurs, we will fully protect your rights:
-- **Advance notice**: We will notify you at least 30 days in advance via email, in-app notifications, and other means;
-- **Privacy commitment**: The recipient must commit to continue complying with all terms of this Privacy Policy;
+If business transfer occurs, we shall fully protect your rights:
+- **Advance notice**: We shall notify you at least 30 days in advance via email, in-app notifications, and other means;
+- **Privacy commitment**: The recipient must commit to continuing compliance with all terms of this Privacy Policy;
 - **User choice**: You have the right to delete your account and personal data before the transfer is completed;
-- **Data protection**: Encryption and other security measures will be employed during the transfer process to protect your data;
+- **Data protection**: Encryption and other security measures shall be employed during the transfer process to protect your data;
 - **User rights**: If you do not agree with the business transfer, you may request deletion of personal data or service termination within the notification period.
 
 ### 6.10 Will Websites Detect That I'm Using AcmeVPN?
@@ -889,7 +908,7 @@ Website VPN detection is a common phenomenon. Our countermeasures are as follows
 
 ### 6.11 How to File a Complaint About AcmeVPN's Privacy Practices?
 If you have complaints about our privacy practices, you can take the following steps:
-- **Contact us first**: Contact us through the help center on the AcmeVPN website or app. We will typically investigate and respond within 30 days (specific timeframes may vary depending on legal requirements in your region—see Article 8.9 of the Privacy Policy).
+- **Contact us first**: Contact us through the help center on the AcmeVPN website or app. We shall typically investigate and respond within 30 days (specific timeframes may vary depending on legal requirements in your region—see Article 8.9 of the Privacy Policy).
 - **Regulatory authority complaints**:
   - **EU residents**: May file complaints with the data protection authority in your country;
   - **California residents**: May file complaints with the California Attorney General's Office;
@@ -903,18 +922,18 @@ We are committed to providing users with stable, secure, and high-speed VPN serv
 - **High availability target**: We strive to maintain VPN service availability;
 - **24/7 monitoring**: Round-the-clock monitoring of server status and network quality;
 - **Rapid response**: Technical issues typically receive a response within 24 hours;
-- **Continuous optimization**: Regularly optimize server configurations and network lines.
+- **Continuous optimization**: We regularly optimize server configurations and network lines.
 
 **Important notes**:
-- We bear no liability for data loss or errors caused by service interruptions or performance issues;
-- We will make every effort to ensure stable service operation, but VPN services may be affected by network environments, policy changes, force majeure, and other factors.
+- To the extent permitted by law, we bear no liability for data loss or errors caused by service interruptions or performance issues;
+- We shall make every effort to ensure stable service operation, but VPN services may be affected by network environments, policy changes, force majeure, and other factors beyond our control.
 
 ### 7.2 What Is AcmeVPN's Traffic Usage Policy?
 AcmeVPN provides unlimited traffic service to all users:
 - **Unlimited traffic policy**: All membership types (free trial, VIP, SVIP, Basic membership) enjoy unlimited traffic with no usage limits;
 - **Fair use principle**: Although we provide unlimited traffic service, please follow fair use principles and do not engage in malicious abuse;
 - **Abuse penalties**: If abusive behavior is detected (such as maliciously occupying server resources, engaging in illegal activities, etc.), AcmeVPN reserves the right to take measures including warnings, function restrictions, service suspension, or account termination;
-- **Service quality assurance**: We continuously monitor network quality to ensure stable, fast VPN services for all users.
+- **Service quality assurance**: We shall continuously monitor network quality to ensure stable, fast VPN services for all users.
 
 ### 7.3 What Devices and Platforms Does AcmeVPN Support?
 AcmeVPN supports mainstream devices and operating systems:
@@ -949,7 +968,7 @@ We employ industry-standard security encryption technology:
 - **Privacy protection**:
   - Combined with strict no-log policy (see Article 4 of the Privacy Policy);
   - Ensures your online activities are invisible to ISPs and third parties;
-- **Continuous updates**: We continuously upgrade encryption technology according to the latest security standards.
+- **Continuous updates**: We shall continuously upgrade encryption technology according to the latest security standards.
 
 ### 7.6 How Does AcmeVPN Prevent DNS Leaks?
 DNS leaks are potential privacy risks facing VPN users:
@@ -985,9 +1004,9 @@ According to our Terms of Service, there are clear regulations regarding P2P act
   - Some servers may block P2P traffic;
   - Torrent downloads may affect other users' network experience.
 - **User responsibilities**:
-  - Users must ensure the legality of downloaded content;
+  - Users shall ensure the legality of downloaded content;
   - Bear all legal liability arising from content transmission (see Article 5.2 of the Terms of Service);
-  - Violations of intellectual property rights will face account termination risks.
+  - Violations of intellectual property rights shall face service termination risks.
 - **Recommendation**: If you have P2P needs, please consult customer support to confirm relevant policies first.
 
 ### 7.9 Does AcmeVPN Provide Ad Blocking Features?
@@ -1062,9 +1081,9 @@ To maintain service security and compliance, we may restrict or prohibit access 
 ### 7.15 What Privacy Laws and Regulations Does AcmeVPN Comply With?
 AcmeVPN strictly complies with global privacy protection laws:
 - Legal compliance: We comply with the General Data Protection Regulation (GDPR), California Consumer Privacy Act/California Privacy Rights Act (hereinafter referred to as "CCPA/CPRA"), and other major global data protection regulations;
-- Applicable law: These Terms of Service and all rights and obligations arising from or related to your use of AcmeVPN services shall be governed by and construed under the laws of the British Virgin Islands, except where mandatory laws of your country or region apply;
+- Applicable law: These Terms of Service and all rights and obligations arising from or related to your use of AcmeVPN services shall be governed by and construed in accordance with the laws of the British Virgin Islands, except where mandatory laws of your jurisdiction apply;
 - Limited data: Due to our no-log policy, we cannot provide user VPN usage activity data and can only provide basic account-related information (such as registration email, registration time, etc.);
-- User notification: Unless prohibited by law, we will notify affected users in advance to the extent possible.
+- User notification: Unless prohibited by law, we shall notify affected users in advance to the extent possible.
 
 ## 8. Other Questions
 
@@ -1083,9 +1102,9 @@ We have a referral reward program:
 
 ### 8.3 Can Minors Use AcmeVPN?
 No. AcmeVPN services are only provided to adult users:
-- **Age restriction**: Users must have reached the age of majority in their jurisdiction of residence/service use location (typically 18 years old) to register and use services;
-- **Guardian responsibility**: If an account user is discovered to be a minor, we will immediately terminate the account;
-- **No refunds**: For account terminations caused by minor use, no refund services are provided;
+- **Age restriction**: Users must have reached the age of majority in their jurisdiction of residence/service use location (typically 18 years old) to register and use the services;
+- **Guardian responsibility**: If an account user is discovered to be a minor, we shall immediately terminate services;
+- **No refunds**: For service terminations caused by minor use, no refund services are provided;
 - **Legal compliance**: This restriction is to ensure services comply with relevant legal and regulatory requirements;
 - **Recommendation**: If minors need to use VPN services, they should use other appropriate services under the guidance and supervision of guardians.
 
@@ -1101,7 +1120,7 @@ As a user, you need to bear the following responsibilities:
   - Bear all legal liability arising from content transmission.
 - **Usage compliance responsibilities**:
   - Comply with local laws, regulations, and network usage policies;
-  - Must not use services for illegal activities;
+  - Shall not use services for illegal activities;
   - Bear all legal consequences arising from illegal use.
 
 ### 8.5 When Should I Contact Customer Support?
@@ -1129,11 +1148,11 @@ We provide convenient customer support contact methods:
 
 ### 8.8 Will AcmeVPN's Terms of Service Change?
 We reserve the right to update the Terms of Service. Specific situations are as follows:
-- **Right to modify**: AcmeVPN may update the Terms of Service at any time;
+- **Right to modify**: AcmeVPN reserves the right to modify or update the Terms of Service at any time within the scope permitted by law;
 - **Notification methods**:
-  - **Material changes**: Users will be notified in advance via email, in-app notifications, website announcements, and other means;
+  - **Material changes**: Users shall be notified in advance via email, in-app notifications, website announcements, and other means;
   - **General changes**: New version terms will be published through the official website.
-- **Effective date**: New terms take effect from the date of publication;
+- **Effective date**: Revised Terms shall take effect from the date of publication;
 - **User obligations**: You have an obligation to regularly review the terms to understand current policies;
 - **Continued use deemed as consent**: Continued use of services after changes take effect is deemed as consent to the revised terms;
 - **Recommendation**: Please regularly follow our official notifications and terms updates.
@@ -1144,7 +1163,7 @@ We publish important information through multiple channels:
   - Important service updates and maintenance notifications will be displayed directly in the app;
   - New features and optimizations will be pushed through app notifications.
 - **Email notifications**:
-  - For material changes to terms, AcmeVPN will notify users in advance via email, in-app notifications, website announcements, and other means (see Article 4.3 of the Terms of Service).
+  - For material changes to terms, AcmeVPN shall notify users in advance via email, in-app notifications, website announcements, and other means (see Article 4.3 of the Terms of Service).
 - **Official website**:
   - Latest service terms, Privacy Policy, and other document updates;
   - Service status and maintenance announcements.
@@ -1168,9 +1187,9 @@ We regularly update the app to provide better services:
 
 ### 8.11 How Should Disputes with AcmeVPN Be Resolved?
 We have established clear dispute resolution mechanisms:
-- **Negotiated settlement**: Disputes should first be resolved through friendly consultation;
+- **Negotiated settlement**: Disputes shall first be resolved through friendly consultation;
 - **Appeal channels**: If services are restricted, suspended, or terminated, you may appeal through the help center on the AcmeVPN website or app within 30 days after the decision takes effect;
-- **Response time**: We will respond within 7 business days of receiving the appeal;
-- **Applicable law**: Disputes shall be governed by and construed under the laws of the British Virgin Islands;
-- **Court jurisdiction**: If consultation fails, disputes shall be submitted to courts with jurisdiction in the British Virgin Islands;
+- **Response time**: We shall respond within 7 business days of receiving the appeal;
+- **Applicable law**: Disputes shall be governed by and construed in accordance with the laws of the British Virgin Islands;
+- **Court jurisdiction**: If consultation fails, disputes shall be submitted to courts with exclusive jurisdiction in the British Virgin Islands;
 - **Final interpretation rights**: AcmeVPN reserves the final right to interpret the Terms of Service and related disputes.

@@ -1,6 +1,6 @@
 # AcmeVPN Membership Terms of Service
 
-- **Publisher**: Acme Networks
+- **Issuing Entity**: Acme Networks
 - **Terms Version**: V1.0
 - **Effective Date**: August 22, 2025
 - **Last Updated**: August 22, 2025
@@ -24,7 +24,7 @@ To avoid ambiguity, the following definitions shall have the meanings set forth 
 - **Purchase Methods**: 
   - Subscription Purchase: Recurring billing via third-party payment platforms (e.g., Stripe) on a monthly, quarterly, or annual basis;
   - One-time Purchase: A single upfront payment for fixed-term membership benefits.
-- **Validity Period Calculation**: The validity period of services shall be calculated continuously from the actual time of activation. References to a "day" or "days" in the Membership Terms mean consecutive 24-hour periods calculated from the time of activation, and do not refer to calendar days.
+- **Validity Period Calculation**: The validity period of services shall be calculated by natural months continuously from the actual time of activation, expiring at the same date and time in the corresponding month. When the target month does not have the activation date (e.g., activated on January 31 but February has no 31st day), the expiry date is adjusted to the last day of that month. For subsequent renewals, if the target month has the original activation date, the original date is restored.
 
 ## 1. Membership Purchase Methods
 You may purchase membership services for your AcmeVPN account through the following methods:
@@ -36,8 +36,25 @@ You may purchase membership services for your AcmeVPN account through the follow
 ## 2. Membership Validity Period
 
 ### 2.1 Paid Memberships
-AcmeVPN offers monthly, quarterly, and annual paid membership services. The validity period of each service is calculated continuously from the effective time, which is 31×24 hours, 93×24 hours, and 372×24 hours respectively, and is not based on calendar days.
-**Example**: If you purchase a monthly VIP membership at 8:00 AM (Singapore Standard Time) on February 1, 2025, the membership will expire after 31×24 hours, i.e., at 8:00 AM (Singapore Standard Time) on March 4, 2025.
+AcmeVPN offers monthly, quarterly, and annual paid membership services. The validity period is calculated by natural months, maintaining the same time point:
+- **Monthly Membership**: From the time of activation, extends forward by 1 natural month, expiring at the same time on the corresponding date;
+- **Quarterly Membership**: From the time of activation, extends forward by 3 natural months, expiring at the same time on the corresponding date;
+- **Annual Membership**: From the time of activation, extends forward by 12 natural months, expiring at the same time on the corresponding date;
+- **Biannual Membership**: From the time of activation, extends forward by 24 natural months, expiring at the same time on the corresponding date.
+
+**Handling Rules for Non-existent Dates**:
+When the target month does not have the activation date (e.g., monthly membership activated on January 31, but February has no 31st day), the system adjusts the expiry date to the last day of that month.
+- **Subscription Renewals**: For subsequent auto-renewals, if the target month has the original activation date, the original date is restored;
+- **One-time Purchases**: Only applies to the expiry time calculation for that specific purchase.
+
+**Calculation Examples**:
+
+**One-time Purchase Examples**:
+- **Example 1**: If you purchase a monthly VIP membership at 8:00 AM (Singapore Standard Time) on February 1, 2025, the membership will expire at 8:00 AM (Singapore Standard Time) on March 1, 2025, and manual repurchase is required after expiry;
+- **Example 2**: If you purchase a monthly VIP membership at 10:00 AM (Singapore Standard Time) on January 31, 2025, since February has no 31st day, the membership will expire at 10:00 AM (Singapore Standard Time) on February 28, 2025, and manual repurchase is required after expiry.
+
+**Subscription Renewal Examples**:
+- **Example 3**: If you subscribe to monthly VIP membership (auto-renewal) at 10:00 AM (Singapore Standard Time) on January 31, 2025, the first billing cycle will expire and auto-renew at 10:00 AM (Singapore Standard Time) on February 28, 2025, and the second billing cycle will expire at 10:00 AM (Singapore Standard Time) on March 31, 2025 (restoring the original date of 31st).
 
 ### 2.2 Free Reward Membership
 **Basic Membership**:
@@ -127,7 +144,7 @@ Different types of memberships will take effect in the following order of priori
 - Membership benefits are non-transferable and may not be shared with others. If an account sharing or other abnormal usage is detected, AcmeVPN reserves the right to ban accounts or terminate membership services;
 - Users must not obtain Basic membership fraudulently through malicious practices. If such malicious practices or other malicious conduct are detected, AcmeVPN reserves the right to issue warnings, restrict functions, suspend services, ban accounts, or terminate membership services.
 
-### 8. Terms Modification and Interpretation
+## 8. Terms Modification and Interpretation
 
 ### 8.1 Terms Changes and Notification
 The Company reserves the right to amend these Membership Terms to the extent permitted by law. In the event of material changes, we will notify you in advance via email, in-app notifications, or website announcements. Amended Terms shall take effect as of the date of publication. You are encouraged to review these Membership Terms periodically.
